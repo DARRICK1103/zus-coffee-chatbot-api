@@ -92,6 +92,6 @@ Here, you can explore the available endpoints, test them directly, and understan
 
 Check out a quick demonstration of the ZUS Coffee AI API's conversational capabilities:
 
-<video src="https://github.com/DARRICK1103/zus-coffee-chatbot-api/blob/main/Chatbot_Demo.mp4?raw=true" controls width="700"></video>
+https://github.com/user-attachments/assets/ae18e225-ef3a-46da-9d54-40810d505d45
 
 ---
