@@ -81,7 +81,7 @@ Here, you can explore the available endpoints, test them directly, and understan
 ## 📈 Usage
 
 * **Product Information:** Send natural language queries about ZUS Coffee products (e.g., "What are the ingredients in their Gula Melaka Latte?", "Tell me about the new seasonal drinks.").
-* **Outlet Search:** Ask questions about ZUS Coffee outlets (e.g., "Where is the nearest ZUS Coffee?", "What are the opening hours for the outlet in Pavilion Kuala Lumpur?", "Does the Sibu outlet have drive-thru?").
+* **Outlet Search:** Ask questions about ZUS Coffee outlets (e.g., "Show me all the outlets at Cheras?", "What are the opening hours for the outlet in Pavilion Kuala Lumpur?").
 * **Conversational Flow:** The API is designed to work with an external conversational frontend that provides long-term memory/summaries, allowing for more extended and contextual dialogues.
 
 ---
