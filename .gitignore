@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.env
+.env.local
+.env.*
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# FAISS vectorstore (often binary format)
+*.faiss*
+*.index
+
+# SQLite DB (if dynamically generated)
+*.sqlite
+*.sqlite3
+*.db
+
+# VS Code and IDE configs
+.vscode/
+.idea/
+
+# Compiled files
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Uvicorn reload file
+reload.*
+
+# Test artifacts
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+
+
