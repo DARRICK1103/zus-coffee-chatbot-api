@@ -85,3 +85,13 @@ Here, you can explore the available endpoints, test them directly, and understan
 * **Conversational Flow:** The API is designed to work with an external conversational frontend that provides long-term memory/summaries, allowing for more extended and contextual dialogues.
 
 ---
+
+---
+
+## 🎬 Demo
+
+Check out a quick demonstration of the ZUS Coffee AI API's conversational capabilities:
+
+<video src="https://github.com/DARRICK1103/zus-coffee-chatbot-api/blob/main/Chatbot_Demo.mp4?raw=true" controls width="700"></video>
+
+---
